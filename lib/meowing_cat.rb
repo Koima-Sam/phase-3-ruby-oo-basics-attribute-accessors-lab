@@ -10,5 +10,5 @@ class Cat
     end
 
 end
-tom = Cat.new
-tom.name = "Tom"
+# tom = Cat.new
+# tom.name = "Tom"
